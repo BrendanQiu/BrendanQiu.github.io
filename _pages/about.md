@@ -96,8 +96,8 @@ My research areas include:
 <!-- - *2015.11* Southeast university merit student `一等奖`   -->
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ International conference
-- *2023.11*, ACM SIGSPATIAL 2023 (International Conference on Advances in Geographic Information Systems), Hamburg, Germany, invited to speak.
+# 🏛️ International Conference
+- *2023.11*, ACM SIGSPATIAL 2023 (International Conference on Advances in Geographic Information Systems), Hamburg, Germany, Oral Presentation.
 
 
 <span class='anchor' id='-gzsx'></span>
