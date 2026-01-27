@@ -1,5 +1,23 @@
 
-@article{tang_unveiling_2025,
+% ============ First Author Papers ============
+
+@inproceedings{tang_explainable_2023,
+	presort = {aa},
+	address = {New York, NY, USA},
+	series = {{SIGSPATIAL} '23},
+	title = {Explainable {Trajectory} {Representation} through {Dictionary} {Learning}},
+	isbn = {979-8-4007-0168-9},
+	url = {https://dl.acm.org/doi/10.1145/3589132.3625607},
+	doi = {10.1145/3589132.3625607},
+	booktitle = {Proceedings of the 31st {ACM} {International} {Conference} on {Advances} in {Geographic} {Information} {Systems}},
+	publisher = {Association for Computing Machinery},
+	author = {Tang, Yuanbo and Peng, Zhiyuan and Li, Yang},
+	year = {2023},
+	pages = {1--4},
+}
+
+@misc{tang_unveiling_2025,
+	presort = {aa},
 	title = {Unveiling {Hidden} {Collaboration} within {Mixture}-of-{Experts} in {Large} {Language} {Models}},
 	url = {http://arxiv.org/abs/2504.12359},
 	doi = {10.48550/arXiv.2504.12359},
@@ -8,7 +26,34 @@
 	note = {arXiv:2504.12359},
 }
 
-@article{zhao_unified_2025,
+% ============ Co-authored Papers ============
+
+@inproceedings{liu_predicting_2024,
+	presort = {bb},
+	address = {New York, NY, USA},
+	series = {{ACM} {MobiCom} '24},
+	title = {Predicting community case transfer path and processing time using decoder models},
+	isbn = {9798400704895},
+	url = {https://dl.acm.org/doi/10.1145/3636534.3694738},
+	doi = {10.1145/3636534.3694738},
+	booktitle = {Proceedings of the 30th {Annual} {International} {Conference} on {Mobile} {Computing} and {Networking}},
+	publisher = {Association for Computing Machinery},
+	author = {Liu, Yiwen and Zhang, Dongdong and Yang, Xinyu and Tang, Yuanbo and Chen, Yang and Liao, Qingmin and Li, Yang},
+	year = {2024},
+	pages = {2078--2083},
+}
+
+@article{peng_dy-mer_2025,
+	presort = {bb},
+	title = {Dy-mer: {An} {Explainable} {DNA} {Sequence} {Representation} {Scheme} using {Dictionary} {Learning}},
+	journal = {Journal of the Franklin Institute},
+	volume = {108307},
+	author = {Peng, Zhiyuan and Zhang, Ning and Tang, Yuanbo and Li, Yang},
+	year = {2025},
+}
+
+@misc{zhao_unified_2025,
+	presort = {bb},
 	title = {A {Unified} {Probabilistic} {Framework} for {Dictionary} {Learning} with {Parsimonious} {Activation}},
 	url = {http://arxiv.org/abs/2509.25690},
 	doi = {10.48550/arXiv.2509.25690},
@@ -17,53 +62,14 @@
 	note = {arXiv:2509.25690},
 }
 
-@article{peng_dy-mer_2025,
-	title = {Dy-mer: {An} {Explainable} {DNA} {Sequence} {Representation} {Scheme} using {Dictionary} {Learning}},
-	journal = {Journal of the Franklin Institute},
-	volume = {108307},
-	author = {Peng, Zhiyuan and Zhang, Ning and Tang, Yuanbo and Li, Yang},
-	year = {2025},
-}
-
-@inproceedings{peng_dy-mer_2024,
+@misc{peng_dy-mer_2024,
+	presort = {bb},
 	title = {Dy-mer: {An} {Explainable} {DNA} {Sequence} {Representation} {Scheme} using {Sparse} {Recovery}},
 	shorttitle = {Dy-mer},
 	url = {http://arxiv.org/abs/2407.12051},
 	doi = {10.48550/arXiv.2407.12051},
-	abstract = {DNA sequences encode vital genetic and biological information, yet these unfixed-length sequences cannot serve as the input of common data mining algorithms. Hence, various representation schemes have been developed to transform DNA sequences into fixed-length numerical representations. However, these schemes face difficulties in learning high-quality representations due to the complexity and sparsity of DNA data. Additionally, DNA sequences are inherently noisy because of mutations. While several schemes have been proposed for their effectiveness, they often lack semantic structure, making it difficult for biologists to validate and leverage the results. To address these challenges, we propose {\textbackslash}textbf\{Dy-mer\}, an explainable and robust DNA representation scheme based on sparse recovery. Leveraging the underlying semantic structure of DNA, we modify the traditional sparse recovery to capture recurring patterns indicative of biological functions by representing frequent K-mers as basis vectors and reconstructing each DNA sequence through simple concatenation. Experimental results demonstrate that {\textbackslash}textbf\{Dy-mer\} achieves state-of-the-art performance in DNA promoter classification, yielding a remarkable {\textbackslash}textbf\{13{\textbackslash}\%\} increase in accuracy. Moreover, its inherent explainability facilitates DNA clustering and motif detection, enhancing its utility in biological research.},
 	author = {Peng, Zhiyuan and Tang, Yuanbo and Li, Yang},
 	month = jul,
 	year = {2024},
-	note = {arXiv:2407.12051 [q-bio]},
-	keywords = {Computer Science - Artificial Intelligence, Computer Science - Machine Learning, Quantitative Biology - Genomics},
-}
-
-@inproceedings{tang_explainable_2023,
-	address = {New York, NY, USA},
-	series = {{SIGSPATIAL} '23},
-	title = {Explainable {Trajectory} {Representation} through {Dictionary} {Learning}},
-	isbn = {979-8-4007-0168-9},
-	url = {https://dl.acm.org/doi/10.1145/3589132.3625607},
-	doi = {10.1145/3589132.3625607},
-	abstract = {Trajectory representation learning on a network enhances our understanding of vehicular traffic patterns and benefits numerous downstream applications. Existing approaches using classic machine learning or deep learning embed trajectories as dense vectors, which lack interpretability and are inefficient to store and analyze in downstream tasks. In this paper, an explainable trajectory representation learning framework through dictionary learning is proposed. Given a collection of trajectories on a network, it extracts a compact dictionary of commonly used subpaths called "pathlets", which optimally reconstruct each trajectory by simple concatenations. The resulting representation is naturally sparse and encodes strong spatial semantics. Theoretical analysis of our proposed algorithm is conducted to provide a probabilistic bound on the estimation error of the optimal dictionary. A hierarchical dictionary learning scheme is also proposed to ensure the algorithm's scalability on large networks, leading to a multi-scale trajectory representation. Our framework is evaluated on two large-scale real-world taxi datasets. Compared to previous work, the dictionary learned by our method is more compact and has better reconstruction rate for new trajectories. We also demonstrate the promising performance of this method in downstream tasks including trip time prediction task and data compression.},
-	booktitle = {Proceedings of the 31st {ACM} {International} {Conference} on {Advances} in {Geographic} {Information} {Systems}},
-	publisher = {Association for Computing Machinery},
-	author = {Tang, Yuanbo and Peng, Zhiyuan and Li, Yang},
-	year = {2023},
-	pages = {1--4},
-}
-
-@inproceedings{liu_predicting_2024,
-	address = {New York, NY, USA},
-	series = {{ACM} {MobiCom} '24},
-	title = {Predicting community case transfer path and processing time using decoder models},
-	isbn = {9798400704895},
-	url = {https://dl.acm.org/doi/10.1145/3636534.3694738},
-	doi = {10.1145/3636534.3694738},
-	abstract = {Government agencies and non-profit organizations often rely on case management systems to process the large influx of community request cases. To improve the efficiency of community case management, it's important to model how a community request case is transferred between different departments within the organization and how long it takes to resolve the case. In this paper, we propose two decoder models to predict the departmental transfer path of a given community case and estimate the total processing time based on the predicted path, trained on historical community case records. We compared our prediction results with those obtained using other common machine learning models on a dataset collected from multiple community platforms in Shenzhen, China. Experiments show that our proposed method significantly outperforms the baselines in transfer path and total processing time prediction.},
-	booktitle = {Proceedings of the 30th {Annual} {International} {Conference} on {Mobile} {Computing} and {Networking}},
-	publisher = {Association for Computing Machinery},
-	author = {Liu, Yiwen and Zhang, Dongdong and Yang, Xinyu and Tang, Yuanbo and Chen, Yang and Liao, Qingmin and Li, Yang},
-	year = {2024},
-	pages = {2078--2083},
+	note = {arXiv:2407.12051},
 }

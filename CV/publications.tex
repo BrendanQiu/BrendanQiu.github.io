@@ -4,14 +4,12 @@
 %% Assuming you've already given \addbibresource{own-bib.bib} in the main doc. Right? Right???
 \nocite{*}
 
-%% If you just want everything in one list
-% \printbibliography[heading={none}]
-% \printbibliography[heading={subbibliography},title={Conference Proceedings},type=inproceedings]
-\printbibliography[heading={none},title={Conference Proceedings},type=inproceedings]
+%% Conference Proceedings (first author papers will appear first due to sorting)
+\printbibliography[heading={subbibliography},title={Conference Proceedings},type=inproceedings]
 
+%% Journal Articles
 \printbibliography[heading={subbibliography},title={Journal Articles},type=article]
 
-
-\printbibliography[heading={subbibliography},title={Books and Chapters},filter={booksandchapters}]
-
+%% Preprints
+\printbibliography[heading={subbibliography},title={Preprints},type=misc]
 
