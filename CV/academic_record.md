@@ -26,7 +26,7 @@
 - 发现并量化了专家间的隐藏协作模式
 - 为理解和优化MoE架构提供了新视角
 
-**成果**: 论文已提交至 arXiv (arXiv:2504.12359)
+**成果**: 发表于 EACL 2026（ACL旗下顶级NLP会议）
 
 ---
 
@@ -76,15 +76,17 @@
 ### 会议论文
 1. **Yuanbo Tang**, Zhiyuan Peng, and Yang Li. "Explainable Trajectory Representation through Dictionary Learning." In Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems, 1–4. SIGSPATIAL '23. New York, NY, USA: Association for Computing Machinery, 2023.
 
-2. Yiwen Liu, Dongdong Zhang, Xinyu Yang, **Yuanbo Tang**, Yang Chen, Qingmin Liao, and Yang Li. "Predicting Community Case Transfer Path and Processing Time Using Decoder Models." In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2078–83. ACM MobiCom '24. New York, NY, USA: Association for Computing Machinery, 2024.
+2. **Yuanbo Tang**, Yutong Tang, Ning Zhang, Meihan Chen, and Yang Li. "Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models," In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).
+
+3. **Yuanbo Tang**, Zhiyuan Peng, and Yang Li. "Data-Efficient and Robust Trajectory Generation through Pathlet Dictionary Learning," In Conference on Parsimony and Learning (CPAL 2026).
+
+4. Yiwen Liu, Dongdong Zhang, Xinyu Yang, **Yuanbo Tang**, Yang Chen, Qingmin Liao, and Yang Li. "Predicting Community Case Transfer Path and Processing Time Using Decoder Models." In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2078–83. ACM MobiCom '24. New York, NY, USA: Association for Computing Machinery, 2024.
 
 ### 期刊论文
 1. Zhiyuan Peng, Ning Zhang, **Yuanbo Tang**, and Yang Li. "Dy-Mer: An Explainable DNA Sequence Representation Scheme Using Dictionary Learning," Journal of the Franklin Institute, 108307, 2025.
 
 ### 预印本
-1. **Yuanbo Tang**, Yutong Tang, Ning Zhang, Meihan Chen, and Yang Li. "Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models," arXiv preprint arXiv:2504.12359, 2025.
-
-2. Zhengzhong Zhao, **Yuanbo Tang**, Jiaqi Ren, Xinyu Zhang, and Yang Li. "A Unified Probabilistic Framework for Dictionary Learning with Parsimonious Activation," arXiv preprint arXiv:2509.25690, 2025.
+1. Zhengzhong Zhao, **Yuanbo Tang**, Jiaqi Ren, Xinyu Zhang, and Yang Li. "A Unified Probabilistic Framework for Dictionary Learning with Parsimonious Activation," arXiv preprint arXiv:2509.25690, 2025.
 
 ---
 

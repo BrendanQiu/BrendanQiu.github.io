@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at Tsinghua University. My supervisor is Professor Li Yang. I graduated from School of Information Science and Engineering, Southeast University in Nanjing with a bachelor's degree. I have published 6 academic papers including co-authoring.
+I am currently a PhD student at Tsinghua University. My supervisor is Professor Li Yang. I graduated from School of Information Science and Engineering, Southeast University in Nanjing with a bachelor's degree. I have published 7 academic papers including co-authoring.
 <!-- 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
@@ -65,7 +65,9 @@ My research areas include:
 </div>
 </div>
 
--  `Yuanbo Tang`, Yutong Tang, Ning Zhang, Meihan Chen, and Yang Li. "Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models," arXiv preprint arXiv:2504.12359, 2025.
+-  `Yuanbo Tang`, Yutong Tang, Ning Zhang, Meihan Chen, and Yang Li. "Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models," In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).
+
+-  `Yuanbo Tang`, Zhiyuan Peng, and Yang Li. "Data-Efficient and Robust Trajectory Generation through Pathlet Dictionary Learning," In Conference on Parsimony and Learning (CPAL 2026).
 
 -  Zhengzhong Zhao, `Yuanbo Tang`, Jiaqi Ren, Xinyu Zhang, and Yang Li. "A Unified Probabilistic Framework for Dictionary Learning with Parsimonious Activation," arXiv preprint arXiv:2509.25690, 2025.
 
