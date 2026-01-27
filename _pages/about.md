@@ -67,7 +67,7 @@ My research areas include:
 
 -  `Yuanbo Tang`, Yutong Tang, Ning Zhang, Meihan Chen, and Yang Li. "Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models," In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).
 
--  `Yuanbo Tang`, Zhiyuan Peng, and Yang Li. "Data-Efficient and Robust Trajectory Generation through Pathlet Dictionary Learning," In Conference on Parsimony and Learning (CPAL 2026).
+-  `Yuanbo Tang`, Yan Tang, Zixuan Zhang, Zihui Zhao, and Yang Li. "Data-Efficient and Robust Trajectory Generation through Pathlet Dictionary Learning," In Conference on Parsimony and Learning (CPAL 2026).
 
 -  Zhengzhong Zhao, `Yuanbo Tang`, Jiaqi Ren, Xinyu Zhang, and Yang Li. "A Unified Probabilistic Framework for Dictionary Learning with Parsimonious Activation," arXiv preprint arXiv:2509.25690, 2025.
 

@@ -78,7 +78,7 @@
 
 2. **Yuanbo Tang**, Yutong Tang, Ning Zhang, Meihan Chen, and Yang Li. "Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models," In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).
 
-3. **Yuanbo Tang**, Zhiyuan Peng, and Yang Li. "Data-Efficient and Robust Trajectory Generation through Pathlet Dictionary Learning," In Conference on Parsimony and Learning (CPAL 2026).
+3. **Yuanbo Tang**, Yan Tang, Zixuan Zhang, Zihui Zhao, and Yang Li. "Data-Efficient and Robust Trajectory Generation through Pathlet Dictionary Learning," In Conference on Parsimony and Learning (CPAL 2026).
 
 4. Yiwen Liu, Dongdong Zhang, Xinyu Yang, **Yuanbo Tang**, Yang Chen, Qingmin Liao, and Yang Li. "Predicting Community Case Transfer Path and Processing Time Using Decoder Models." In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2078–83. ACM MobiCom '24. New York, NY, USA: Association for Computing Machinery, 2024.
 
