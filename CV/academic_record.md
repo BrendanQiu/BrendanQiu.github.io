@@ -31,6 +31,8 @@
 
 | 时间 | 荣誉名称 | 授予单位 |
 |------|----------|----------|
+| 2025.06 | Future Leaders Scholarship (未来领袖奖学金) | 清华大学 |
+| 2024.06 | Future Leaders Scholarship (未来领袖奖学金) | 清华大学 |
 | 2023.06 | Future Leaders Scholarship (未来领袖奖学金) | 清华大学 |
 | 2019.06 | Merit Student (优秀学生) | 东南大学 |
 | 2018.06 | First-Grade Scholarship (一等奖学金) | 东南大学 |

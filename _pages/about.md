@@ -86,6 +86,8 @@ My research areas include:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards
+- *2025.06* Tsinghua University Future Leaders Scholarship
+- *2024.06* Tsinghua University Future Leaders Scholarship
 - *2023.06* Tsinghua University Future Leaders Scholarship 
 - *2019.06* Southeast university merit student   
 - *2018.06* Southeast university The first-grade scholarship  
