@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at Tsinghua University. My supervisor is Professor Li Yang. I graduated from School of Information Science and Engineering, Southeast University in Nanjing with a bachelor's degree. I have published 2 + academic papers including co-authoring.
+I am currently a PhD student at Tsinghua University. My supervisor is Professor Li Yang. I graduated from School of Information Science and Engineering, Southeast University in Nanjing with a bachelor's degree. I have published 7 academic papers including co-authoring.
 <!-- 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
@@ -45,7 +45,7 @@ My research areas include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGSPATIAL 2023</div><img src='images/paper_sigspatial.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Yuanbo Tang` , Zhiyuan Peng, and Yang Li. “Explainable Trajectory Representation through Dictionary Learning.” In Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems, 1–4. SIGSPATIAL ’23. New York, NY, USA: Association for Computing Machinery, 2023. 
+-	`Yuanbo Tang` , Zhiyuan Peng, and Yang Li. "Explainable Trajectory Representation through Dictionary Learning." In Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems, 1–4. SIGSPATIAL '23. New York, NY, USA: Association for Computing Machinery, 2023. 
 <!-- https://doi.org/10.1145/3589132.3625607. -->
 <!-- [[Website]](https://dx.doi.org/10.3390/s22093587) [[PDF]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[Download]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) -->
 
@@ -57,7 +57,7 @@ My research areas include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MobiCom 2024</div><img src='images/paper_mobicom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Yiwen Liu, Dongdong Zhang, Xinyu Yang, `Yuanbo Tang`, Yang Chen, Qingmin Liao, and Yang Li. “Predicting Community Case Transfer Path and Processing Time Using Decoder Models.” In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2078–83. ACM MobiCom ’24. New York, NY, USA: Association for Computing Machinery, 2024. https://doi.org/10.1145/3636534.3694738.
+- Yiwen Liu, Dongdong Zhang, Xinyu Yang, `Yuanbo Tang`, Yang Chen, Qingmin Liao, and Yang Li. "Predicting Community Case Transfer Path and Processing Time Using Decoder Models." In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2078–83. ACM MobiCom '24. New York, NY, USA: Association for Computing Machinery, 2024. https://doi.org/10.1145/3636534.3694738.
 
 <!-- https://doi.org/10.1145/3589132.3625607. -->
 <!-- [[Website]](https://dx.doi.org/10.3390/s22093587) [[PDF]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[Download]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) -->
@@ -65,8 +65,13 @@ My research areas include:
 </div>
 </div>
 
--  Zhiyuan Peng, `Yuanbo Tang`, and Yang Li. “Dy-Mer: An Explainable DNA Sequence Representation Scheme Using Sparse Recovery,” July 6, 2024. https://doi.org/10.48550/arXiv.2407.12051.
-<!-- [[Website]](https://dx.doi.org/10.3390/ma15207362) [[PDF]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[Download]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) -->
+-  `Yuanbo Tang`, Yutong Tang, Ning Zhang, Meihan Chen, and Yang Li. "Unveiling Hidden Collaboration within Mixture-of-Experts in Large Language Models," arXiv preprint arXiv:2504.12359, 2025.
+
+-  Zhengzhong Zhao, `Yuanbo Tang`, Jiaqi Ren, Xinyu Zhang, and Yang Li. "A Unified Probabilistic Framework for Dictionary Learning with Parsimonious Activation," arXiv preprint arXiv:2509.25690, 2025.
+
+-  Zhiyuan Peng, Ning Zhang, `Yuanbo Tang`, and Yang Li. "Dy-Mer: An Explainable DNA Sequence Representation Scheme Using Dictionary Learning," Journal of the Franklin Institute, 108307, 2025.
+
+-  Zhiyuan Peng, `Yuanbo Tang`, and Yang Li. "Dy-Mer: An Explainable DNA Sequence Representation Scheme Using Sparse Recovery," arXiv preprint arXiv:2407.12051, 2024.
 
 <!-- ### 专利
 ---
@@ -76,8 +81,6 @@ My research areas include:
 - 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[Website]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
 - 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[Website]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
  -->
-
-
 
 
 
