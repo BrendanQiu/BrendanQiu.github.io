@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master student at Nanjing University of Information Science and Technology. My supervisor is Professor <a href="https://mmmyq2.wixsite.com/qiangyang">Qiang Yang. I graduated from School of Mathematics and Statistics, Nanjing University of Information Science and Technology in Nanjing with a bachelor's degree. 
+I am currently a master student at Nanjing University of Information Science and Technology. My supervisor is Professor <a href="https://mmmyq2.wixsite.com/qiangyang">Qiang Yang</a>. I graduated from School of Mathematics and Statistics, Nanjing University of Information Science and Technology in Nanjing with a bachelor's degree. 
 <!-- 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
