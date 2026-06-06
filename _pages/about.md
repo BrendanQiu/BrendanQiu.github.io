@@ -31,8 +31,8 @@ My research areas include:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2021.09 - 2025.06*, <a href="https://www.nuist.edu.cn/"><img class="svg" src="/images/seu.png" width="24pt"></a> School of Mathematics and Statistics, Nanjing University of Information Science and Technology, Nanjing, Jiangsu, undergraduate
-- *2025.09 - *, <a href="https://www.nuist.edu.cn/"><img class="svg" src="/images/thu.png" width="24pt"></a> School of Artificial Intelligence, Nanjing University of Information Science and Technology, Nanjing, Jiangsu, master
+- *2021.09 - 2025.06*, <a href="https://www.nuist.edu.cn/"><img class="svg" src="/images/nuist.png" width="24pt"></a> School of Mathematics and Statistics, Nanjing University of Information Science and Technology, Nanjing, Jiangsu, undergraduate
+- *2025.09 - today*, <a href="https://www.nuist.edu.cn/"><img class="svg" src="/images/nuist.png" width="24pt"></a> School of Artificial Intelligence, Nanjing University of Information Science and Technology, Nanjing, Jiangsu, master
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -40,7 +40,7 @@ My research areas include:
 
 ### English
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PPSN 2026</div><img src='images/paper_sigspatial.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PPSN 2026</div><img src='images/M2opt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Chen-Ke Qiu` , Gong-Wei Song, Qiang Yang*, Dan-Ting Duan, Pei-Lan Xu, Xu-Dong Gao, Zhen-Yu Lu, and Jun Zhang. "Matrix-Based Ant Colony Optimization with Matrix-Based Elite 2-opt for Traveling Salesman Problem." In ***International Conference on Parallel Problem Solving From Nature (PPSN)***, accepted, 2026.
