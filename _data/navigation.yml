@@ -12,8 +12,10 @@ main:
   - title: "Award"
     url: "/#-ryjx"
 
-  - title: "Conference"
-    url: "/#-xshy"
+  
 
-  - title: "Work"
-    url: "/#-gzsx"
+  # - title: "Conference"
+  #   url: "/#-xshy"
+
+  # - title: "Work"
+  #   url: "/#-gzsx"

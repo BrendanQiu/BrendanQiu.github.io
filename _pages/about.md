@@ -25,8 +25,6 @@ My research areas include:
 - Evolutionary Computation
 - Distributed Computation
 
-  
-
 
 <span class='anchor' id='-xl'></span>
 
